@@ -72,7 +72,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Credits
 
-Developed by Seher Ayesha
+Developed by [Seher Ayesha](https://github.com/seher-ayesha)
 
 ## License
 
