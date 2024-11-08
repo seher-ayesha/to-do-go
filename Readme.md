@@ -44,6 +44,12 @@
 
 No installation steps are required as this project is designed as an educational example.
 
+## Documentation
+For a detailed guide covering the app’s setup, code structure, and SwiftUI design principles, explore our full article on Medium:
+
+[Mastering MVVM in SwiftUI: A Step-by-Step Guide with Code Examples from To-Do Go iOS App](https://medium.com/@seher.ayesha/mastering-mvvm-in-swiftui-a-step-by-step-guide-with-code-examples-from-to-do-go-ios-app-94b3ca81532d)
+
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated! Here are some ways you can get started:
